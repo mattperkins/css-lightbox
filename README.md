@@ -1,11 +1,6 @@
-# INSTALL 
-## yarn 
+# CSS Lightbox
 
-# RUN 
-## yarn start 
+## Features
 
-# ENDPOINTS 
-## localhost: 
-
-# DEPLOY 
-## yarn build
+### CSS Grid
+### Roboto 300,700
